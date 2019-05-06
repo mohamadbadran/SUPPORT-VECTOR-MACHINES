@@ -1,6 +1,8 @@
 # SUPPORT-VECTOR-MACHINES
 BREAST CANCER CLASSIFICATION USING SUPPORT VECTOR MACHINES
 
+You can view the jupyter notebook from here https://nbviewer.jupyter.org/github/mohamadbadran/SUPPORT-VECTOR-MACHINES/blob/master/SVM%20-%20Cancer%20Classification-Copy1.ipynb
+
 # PROBLEM STATEMENT
 
 Predicting if the cancer diagnosis is benign or malignant based on several observations/features
